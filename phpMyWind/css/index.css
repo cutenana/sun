@@ -1,0 +1,59 @@
+
+/*轮播图*/
+.carousel-indicators .active {
+	background-color: #F96908;
+
+}
+.carousel-control img {
+ 	margin-top: 96px;
+ }
+ /*解决方案*/
+ .solution .s-content {
+    padding-top: 40px;
+ }
+ .solution .s-content .s-content-image {
+    border: 1px solid #b9b7b7;
+ }
+ .solution .s-content .s-image-title {
+    text-align: center;
+    font-weight: bold;
+ }
+ /*关于我们*/
+ .about .a-content{
+    padding-top: 40px;
+ }
+ .about .a-content .a-image-title {
+    text-align: center;
+    font-weight: bold;
+ }
+.about .a-content .a-image {
+    margin-left: 70px;
+}
+/*新闻资讯*/
+.news .n-content{
+    padding-top: 40px;
+ }
+.news .n-content .n-image-title {
+    width: 450px;
+} 
+.news .n-text ul li {
+    border-bottom: 1px dashed #cccccc;
+    font-size: 12px;
+    line-height: 30px;
+    padding-left:11px;
+    position:relative;
+    list-style: none;
+}
+.news .n-text li i {
+
+    border:4px solid transparent;
+    border-left-color:#F50808;
+    border-left-width:6px;
+    position:absolute;
+    left:0;
+    top:40%;
+}
+.n-text li time {
+    float: right;
+}
+

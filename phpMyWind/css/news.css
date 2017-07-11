@@ -1,0 +1,28 @@
+/*内容部分*/
+.content {
+    border: 1px solid #adb0b0;
+    width: 61%;
+    margin-top: 25px;
+    margin-left: 367px;
+}
+
+.content-img {
+    width: 400px;
+    display: inline-block;
+    padding: 8px;
+    float: left;
+}
+
+.content-text {
+    width: 555px;
+    margin-left: 85px;
+    display: inline-block;
+}
+.content-text a {
+    text-decoration: none;
+    color:#000;
+}
+.content .content-text h3 {
+    font-size: 21px;
+    font-weight: bold;
+}

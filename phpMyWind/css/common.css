@@ -1,0 +1,91 @@
+/*公共的样式*/
+/*导航栏公共部分*/
+.header {
+    box-shadow: 0px 2px 4px rgba(1, 1, 1, 0.15);
+    height: 54px;
+    padding-top: 7px;
+    width: 100%;
+    opacity: 0.85;
+    background-color: #fff;
+}
+.row .header-nav {
+    margin-top: -4px;
+}
+.row .header-nav li {
+    list-style: none;
+    float: left;
+    margin-left: 4px;
+    background: url(../img/nav-logo.PNG) no-repeat;
+    width: 103px;
+    height: 32px;
+    line-height: 32px;
+}
+.row .header-nav a {
+    text-decoration: none;
+    padding-left: 20px;
+    color: #fff;
+    font-size: 14px;
+}
+
+/*头部图片以及横线公共部分*/
+.potor .potor-img img {
+    margin-top: 60px;
+    margin-left: -180px;
+}
+.line .line-text {
+    border-bottom: 1px solid #E0DEDE;
+    margin-top: 15px;
+}
+.line .line-text span {
+    font-weight: bold;
+}
+.line .line-text a {
+    float: right;
+    color:#8C8989;
+ }
+ .content-line .content-line-text {
+    border-bottom: 1px solid #000;
+    margin-top: 40px;
+ }
+.content-line .content-line-text span {
+    font-size:20px;
+    font-weight: bold;
+}
+/*公共首页横线样式*/
+.aorise-title {
+    padding-top: 40px;
+    text-align: center;
+
+}
+.aorise-title a {
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration: none;
+    color: #333;
+    cursor: pointer;
+}
+.aorise-wrap {
+    border-bottom: 2px solid #938A8A;
+    width: 37%;
+    margin: 0 auto;
+    margin-top: 16px;
+    opacity: 0.5;
+}
+/*公共尾部样式*/
+.footer {
+    width: 100%;
+   margin-top: 40px;
+   background-color: #D6D2D2;
+}
+.footer .f-content-image {
+  padding-top: 16px;
+}
+.footer .f-image img {
+   margin-left: 155px;
+}
+.footer .f-con-image img {
+    margin-left: 134px;
+}
+.footer .f-content .f-con-text{
+    margin-left: 150px;
+}

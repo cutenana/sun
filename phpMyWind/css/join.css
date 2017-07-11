@@ -1,0 +1,42 @@
+/*前言部分*/
+.preface-text {
+    background: #dedede;
+}
+.preface-text h2 {
+    margin-left: 50px;
+    padding-top: 10px;
+    font-weight: bold;
+}
+.preface-text p {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.preface-text span h3 {
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 20px;
+}
+.preface-text span input {
+    margin-left: 17px;
+    background-color: #fff;
+}
+/*内容开始*/
+.j-content .j-content-text .bgcolor {
+    background: #373737;
+    color:#fff;
+    padding:5px;
+}
+.j-content .j-content-text .bluecolor {
+    background: #337aba;
+    padding:5px;
+}
+.j-content .j-content-text {
+    margin-top: 20px;
+}
+.j-content .j-content-text p {
+    margin-top:10px;
+
+}
+.j-content .j-content-text:hover{
+    background: #eee;
+}

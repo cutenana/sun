@@ -1,0 +1,13 @@
+/*内容部分*/
+.content .content {
+    padding-top: 40px;
+    margin-top: 20px;
+ }
+ .content .content-image .image-title {
+    text-align: center;
+    font-weight: bold;
+ }
+ .content .content-image {
+    border: 1px solid #b9b7b7;
+    margin-top: 25px;
+ }

@@ -1,0 +1,71 @@
+/*内容部分*/
+.s-content .title p {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 20px;
+}
+.s-content .titles p {
+    border-bottom: 1px solid #ddd;
+    border-top: 1px solid #ddd;
+    margin-left: 205px;
+    text-align: center;
+    width: 65%;
+    padding: 3px;
+}
+.s-content .titles p span {
+    font-size: 12px;
+}
+.s-content .header-text p {
+    border: 1px solid #e5e4cf;
+    margin-top: 13px;
+    background: #feffef;
+}
+.s-content .content-text p {
+    line-height: 45px;
+    margin-top: 25px;
+}
+.s-content .content-text i {
+    float: right;
+}
+.s-content .endContent {
+    margin-top: 50px;
+}
+.s-content .endContent p {
+    display: inline-block;
+}
+.s-content .endContent span {
+    float: right;
+}
+/*底部评论*/
+.s-content .talk p{
+    border: 1px solid #000;
+    width: 60px;
+    padding: 4px;
+}
+.s-content .talk span{
+    color: #f00;
+    font-weight: bold;
+}
+.s-content .endInput{
+    width: 1260px;
+}
+.s-content .endInput .textarea input{
+    width: 1060px;
+    height: 95px;
+    margin-top: 25px;
+}
+.s-content .endInput .text{
+    display: inline-block;
+}
+.s-content .endInput .text input{
+    width: 935px;
+    padding-top: 5px;
+}
+.s-content .endInput .sub{
+   display: inline-block;
+}
+.s-content .endInput .sub input{
+    width: 112px;
+    padding-top: 5px;
+}
